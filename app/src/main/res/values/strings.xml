@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scripture Prompt</string>
+    <string name="scripture_label">Enter your favorite scripture below</string>
+    <string name="edit_book_id">Enter scripture book</string>
+    <string name="edit_chapter_id">Enter the chapter number </string>
+    <string name="edit_verse_id">Enter the verse number</string>
+    <string name="submit_message">Submit</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="scripture_load">Load Scripture</string>
+</resources>
